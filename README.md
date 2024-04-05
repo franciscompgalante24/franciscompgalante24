@@ -2,9 +2,9 @@
 
 - ☁️ Currently working as a Cloud DevOps Engineer at Siemens, in Lisbon.
 
-- 🌱 Enhancing my proficiency in Cybersecurity.
+- 🌱 Enhancing my proficiency in Cybersecurity and Networking.
 
-- 📚 Graduate with a MSc degree in Eletrical and Computer Engineering from Instituto Superior Técnico, in Lisbon.
+- 📚 Graduated with a Master of Science (MSc) degree in Electrical and Computer Engineering from Instituto Superior Técnico, in Lisbon.
 
 - 🌊 Outside of the tech sphere, I am passionate about nature, photography, basketball, and Life.
 
