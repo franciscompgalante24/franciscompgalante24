@@ -8,6 +8,15 @@
 
 - 🌊 Outside of the tech sphere, I am passionate about nature, photography, basketball, and Life.
 
+## 💼 Experience
+* Cloud DevOps Engineer @ Siemens
+* Cloud Trainee @ Siemens
+* Electronics Team Member @ AeroTec, IST 
+
+## 📫 Contacts
+
+✉️ [Email](mailto:franciscompgalante@gmail.com)
+
 <!--
 **franciscompgalante24/franciscompgalante24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
