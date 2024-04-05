@@ -22,6 +22,21 @@
     </div>
 </div>
 
+## Technologies
+
+<p align="left"> 
+<a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="" alt="azure" width="40" height="40"/> </a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="" alt="terraform" width="40" height="40"/> </a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="" alt="ansible" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="" alt="linux" width="40" height="40"/> </a>
+<a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="URL_FOR_GITLAB_ICON" alt="gitlab" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="" alt="python" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="" alt="c" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="" alt="sql" width="40" height="40"/> </a>
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="" alt="powershell" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="" alt="powershell" width="40" height="40"/> </a>
+</p>
+
 ## 📫 Contacts
 
 * ✉️ franciscompgalante@gmail.com
