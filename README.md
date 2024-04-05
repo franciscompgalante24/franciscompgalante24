@@ -25,16 +25,17 @@
 ## Technologies
 
 <p align="left"> 
-<a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="" alt="azure" width="40" height="40"/> </a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="" alt="terraform" width="40" height="40"/> </a>
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="" alt="ansible" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="" alt="linux" width="40" height="40"/> </a>
-<a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="URL_FOR_GITLAB_ICON" alt="gitlab" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="" alt="python" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="" alt="c" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="" alt="sql" width="40" height="40"/> </a>
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="" alt="powershell" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="" alt="powershell" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://github.com/franciscompgalante24/franciscompgalante24/blob/main/Icons/Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/> </a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/franciscompgalante24/franciscompgalante24/blob/main/Icons/terraform-icon-1803x2048-hodrzd3t.png" alt="terraform" width="40" height="40"/> </a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/franciscompgalante24/franciscompgalante24/blob/main/Icons/ansiblelogo.png" alt="ansible" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/franciscompgalante24/franciscompgalante24/blob/main/Icons/linux-icon-1719x2048-gi8asnz4.png" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/franciscompgalante24/franciscompgalante24/blob/main/Icons/docker-icon-512x438-ga1hb37h.png" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/franciscompgalante24/franciscompgalante24/blob/main/Icons/cute-ball-windows-icon-png-16.png" alt="sql" width="40" height="40"/> </a>
+<a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/franciscompgalante24/franciscompgalante24/blob/main/Icons/gitlab-icon-2048x1885-1o0cwkbx.png" alt="gitlab" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/franciscompgalante24/franciscompgalante24/blob/main/Icons/Git_icon.svg.png" alt="git" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/franciscompgalante24/franciscompgalante24/blob/main/Icons/Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/franciscompgalante24/franciscompgalante24/blob/main/Icons/c_original_logo_icon_146611.png" alt="c" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/franciscompgalante24/franciscompgalante24/blob/main/Icons/postgresql-icon-1987x2048-v2fkmdaw.png" alt="postgresql" width="40" height="40"/> </a>
 </p>
 
 ## 📫 Contacts
