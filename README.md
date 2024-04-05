@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I am Francisco Galante 👋
+
+- ☁️ Currently working as a Cloud DevOps Engineer at Siemens, in Lisbon.
+
+- 🌱 Enhancing my proficiency in Cybersecurity.
+
+- 📚 Graduate with a MSc degree in Eletrical and Computer Engineering from Instituto Superior Técnico, in Lisbon.
+
+- 🌊 Outside of the tech sphere, I am passionate about nature, photography, basketball, and Life.
 
 <!--
 **franciscompgalante24/franciscompgalante24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
