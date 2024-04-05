@@ -13,7 +13,7 @@
 * Cloud Trainee @ Siemens
 * Electronics Team Member @ AeroTec, IST
 
-## Certifications
+## ✔️ Certifications
 <div align="center">
     <div class="row" style="display:flex">
           <a target="_blank" href="https://www.credly.com/badges/26fa75ab-1f08-4c82-8c4b-cae1bb892ad4/linked_in_profile">
@@ -22,7 +22,7 @@
     </div>
 </div>
 
-## Technologies
+## 💻 Technologies
 
 <p align="left"> 
 <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://github.com/franciscompgalante24/franciscompgalante24/blob/main/Icons/Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/> </a>
